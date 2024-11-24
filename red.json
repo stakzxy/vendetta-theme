@@ -21,10 +21,10 @@
             "#780606"
         ],
         "TEXT_LINK": [
-            "#780606"
+            "#ff0000"
         ],
         "TEXT_DANGER": [
-            "#780606"
+            "#ff0000"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
@@ -63,7 +63,7 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#e6ff0000"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#000000"
@@ -87,10 +87,10 @@
             "#000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#c4c4c4"
+            "#000000"
         ],
         "TEXT_LINK": [
-            "#780606"
+            "#ff0000"
         ],
         "CHANNEL_ICON": [
             "#ffffff"
